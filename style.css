@@ -1,0 +1,162 @@
+#main{
+    background-color: rgb(214, 227, 236);
+    border: 2px solid  rgb(214, 227, 236);
+    width: 100%;
+    height: 600px;
+    
+}
+.nav-1{
+    background-color: rgb(38, 37, 43);
+    color: white;
+    width: 90%;
+    height: 40px;
+margin: 0 auto;
+margin-top: 50px;
+position: relative;
+cursor: pointer;
+}
+
+.nav-2{
+background-color: rgb(38, 37, 43);
+color: white;
+width: 90%;
+height: 40px;
+margin: 0 auto;
+margin-top: 50px;
+position: relative;
+cursor: pointer;
+}
+.nav-3{
+background-color: rgb(38, 37, 43);
+color: white;
+width: 90%;
+height: 40px;
+margin: 0 auto;
+margin-top: 50px;
+position: relative;
+cursor: pointer;
+}
+.para-1{
+padding: 10px 0 0 30px;
+float: left;
+position: absolute;
+bottom: -6px;
+
+}
+.para-2{
+padding: 10px 0 0 30px;
+float: left;
+position: absolute;
+bottom: -2px;
+font-size: small;
+}
+.para-3{
+padding: 10px 0 0 30px;
+float: left;
+position: absolute;
+bottom: -6px;
+}
+.para-1:hover,.para-2:hover,.para-3:hover{
+    color: rgb(255, 93, 93);
+}
+.p1-one,.p1-two,.p1-three,.p1-four{
+position: absolute;
+bottom: -6px;
+}
+.p1-one:hover,.p1-two:hover,.p1-three:hover,.p1-four:hover{
+    color: rgb(255, 93, 93);
+}
+.p2-one,.p2-two,.p2-three,.p2-four{
+position: absolute;
+bottom: -6px;
+}
+.p2-one:hover,.p2-two:hover,.p2-three:hover,.p2-four:hover{
+        color: rgb(255, 93, 93);
+
+}
+.p3-one,.p3-two,.p3-three,.p3-four{
+position: absolute;
+bottom: -6px;
+}
+.p3-one:hover,.p3-two:hover,.p3-three:hover,.p3-four:hover{
+    color: rgb(255, 93, 93);
+
+}
+.p1-one{
+margin-left: 40%;
+font-size: small;
+position: absolute;
+bottom: -2px
+}
+.p1-two{
+margin-left: 47%;
+font-size: small;
+position: absolute;
+bottom: -2px
+}
+.p1-three{
+margin-left: 54%;
+font-size: small;
+position: absolute;
+bottom: -2px
+}
+.p1-four{
+margin-left: 90%;
+border: none ;
+background-color: rgb(57, 164, 184);
+border-radius: 40px;
+padding: 3px 5px;
+font-size: small;
+margin-bottom: 15px;
+}
+.p2-one{
+margin-left: 10%;
+font-size: small;
+position: absolute;
+bottom: -2px
+}
+.p2-two{
+margin-left: 17%;
+font-size: small;
+position: absolute;
+bottom: -2px
+}
+.p2-three{
+margin-left: 24%;
+border: none ;
+background-color: rgb(57, 164, 184);
+border-radius: 40px;
+padding: 3px 5px;
+font-size: small;
+margin-bottom: 15px;
+}
+.p2-four{
+margin-left: 85%;
+}
+.p3-one{
+margin-left: 69%;
+font-size: small;
+position: absolute;
+bottom: -2px
+}
+.p3-two{
+margin-left: 76%;
+font-size: small;
+position: absolute;
+bottom: -2px
+}
+.p3-three{
+margin-left: 83%;
+font-size: small;
+position: absolute;
+bottom: -2px
+}
+.p3-four{
+margin-left: 90%;
+border: none ;
+background-color: rgb(57, 164, 184);
+border-radius: 40px;
+padding: 3px 5px;
+font-size: small;
+margin-bottom: 15px;
+}
